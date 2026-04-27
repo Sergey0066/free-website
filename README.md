@@ -32,14 +32,10 @@
 ```bash
 free-website/
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
+├── style.css
+├── script.js
 ├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
+│   └── service-crops
 └── README.md
 ```
 
