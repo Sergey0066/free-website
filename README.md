@@ -6,12 +6,6 @@
 Этот проект представляет собой готовую вёрстку сайта для бизнеса.
 Макет сайта был создан в Figma, после чего перенесён в HTML/CSS/JS.
 
-## Превью
-
-### Вид `index.html`
-
-![Вид главной страницы сайта](https://github.com/user-attachments/assets/e1ffd16a-aa27-494d-b737-2acaa2910070)
-
 ## Особенности
 
 - Адаптивная вёрстка.
@@ -19,6 +13,16 @@
 - Создано по шаблону из Figma.
 - Чистая структура исходников.
 - Подходит для дальнейшей доработки под ваш бренд.
+
+## Превью
+
+### Вид `index.html`
+
+![Вид главной страницы сайта](https://github.com/user-attachments/assets/e1ffd16a-aa27-494d-b737-2acaa2910070)
+![Вид главной страницы сайта](https://github.com/user-attachments/assets/9782f760-cd3c-4e7b-93cc-434cdd871209)
+![Вид главной страницы сайта](https://github.com/user-attachments/assets/028f56d4-a7ee-437a-9ba9-30dfcbb2c566)
+![Вид главной страницы сайта](https://github.com/user-attachments/assets/429afb4f-51b7-4cd1-919e-64eea2121f78)
+
 
 ## Стек
 
