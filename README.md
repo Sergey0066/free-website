@@ -16,7 +16,7 @@
 
 ## Превью
 
-### Вид `index.html`
+### Вид `Главной страницы`
 
 ![Вид главной страницы сайта](https://github.com/user-attachments/assets/e1ffd16a-aa27-494d-b737-2acaa2910070)
 ![Вид главной страницы сайта](https://github.com/user-attachments/assets/9782f760-cd3c-4e7b-93cc-434cdd871209)
